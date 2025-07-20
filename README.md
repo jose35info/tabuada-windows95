@@ -31,7 +31,7 @@ O objetivo é gerar a tabuada de um número digitado pelo usuário — tudo com 
 
 ## 🚀 Acesse o projeto
 
-🔗 [Clique aqui para ver online no GitHub Pages]([https://seu-usuario.github.io/tabuada-win95](https://github.com/jose35info/tabuada-windows95/)  
+🔗 [Clique aqui para ver online no GitHub Pages]([https://seu-usuario.github.io/tabuada-win95](https://jose35info.github.io/tabuada-windows95/)  
 
 
 ---
