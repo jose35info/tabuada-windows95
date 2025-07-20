@@ -31,14 +31,15 @@ O objetivo é gerar a tabuada de um número digitado pelo usuário — tudo com 
 
 ## 🚀 Acesse o projeto
 
-🔗 [Clique aqui para ver online no GitHub Pages](https://seu-usuario.github.io/tabuada-win95/)  
-*(Substitua pelo seu link real)*
+🔗 [Clique aqui para ver online no GitHub Pages]([https://seu-usuario.github.io/tabuada-win95](https://github.com/jose35info/tabuada-windows95/)  
+
 
 ---
 
 ## 📁 Como usar este projeto localmente
 
 1. Clone o repositório:
+   
 ´´´
 git clone https://github.com/seu-usuario/tabuada-win95.git
 
@@ -51,7 +52,7 @@ git clone https://github.com/seu-usuario/tabuada-win95.git
 ## ✍️ Autor
 
 **Tony Gomes**  
-📧 Contato: [seu-email@exemplo.com]  
+📧 Contato: tony.manutencao@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil) • [Portfólio](https://jose35info.github.io/Meu-Portfolio/)
 
 ---
