@@ -32,13 +32,14 @@ O objetivo é gerar a tabuada de um número digitado pelo usuário — tudo com 
 ## 🚀 Acesse o projeto
 
 🔗 [Clique aqui para ver online no GitHub Pages]([https://seu-usuario.github.io/tabuada-win95](https://github.com/jose35info/tabuada-windows95/)  
-*(Substitua pelo seu link real)*
+
 
 ---
 
 ## 📁 Como usar este projeto localmente
 
 1. Clone o repositório:
+   
 ´´´
 git clone https://github.com/seu-usuario/tabuada-win95.git
 
